@@ -35,6 +35,7 @@ public class WordToExcel2003 {
 
 	public static void loadDataToExcel() throws Exception {
 		FileInputStream in;
+
 //		in = new FileInputStream("C:\\wordToExcel\\陕西信合_互联网数字银行服务应用系统_账户限额_数据库设计说明书_1.1.doc");
 		in = new FileInputStream("/Users/fangdl/tmp/统一支付.docx");
 
